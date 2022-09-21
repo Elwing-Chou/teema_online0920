@@ -4,4 +4,4 @@
 
 [CNN](https://colab.research.google.com/drive/10ef2M5pF-FTX9XAYcIILs6oAjonUB55a?usp=sharing)
 
-[Yolo](https://colab.research.google.com/drive/1Kg7KQWS2vb7y1a2pjDxLdfdreBPoPGoq?usp=sharing)
+[YOLO](https://colab.research.google.com/drive/1Kg7KQWS2vb7y1a2pjDxLdfdreBPoPGoq?usp=sharing)
